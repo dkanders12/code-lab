@@ -22,3 +22,15 @@
 .purpleFigures {
   background-color: rgb(251, 0, 255);
 }
+#redFigure.blueBackground {
+  background-color: aqua;
+}
+#yellowFigure.blueBackground {
+  background-color: aqua;
+}
+.purpleFigures.orgin {
+  background-color: aqua;
+}
+h3.orgin {
+  color: black;
+}
